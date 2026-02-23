@@ -17,7 +17,7 @@
       color: #ff2e2e;
       letter-spacing: 1px;
       margin-bottom: 30px;
-    }
+    
 
     h2 {
       color: #ff6666;
